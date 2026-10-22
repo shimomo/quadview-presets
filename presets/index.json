@@ -64,5 +64,11 @@
     "file": "live-cameras.json",
     "kind": "videos",
     "description": "日本の駅・新幹線・渋谷・空港などの定点ライブカメラと、海外の鉄道ライブ"
+  },
+  {
+    "name": "経済・マーケット",
+    "file": "markets.json",
+    "kind": "videos",
+    "description": "Bloomberg・Yahoo Finance・Schwab Network・CNBC-TV18 の24時間ライブと、日本語の決算解説"
   }
 ]
