@@ -45,4 +45,4 @@ QuadView の「設定」→「プリセット」に、下の URL を足してく
 
 ## ライセンス
 
-[MIT](LICENSE)
+QuadView Presets は [MIT license](LICENSE) の元で公開されています。
