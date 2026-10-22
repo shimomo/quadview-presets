@@ -70,5 +70,11 @@
     "file": "markets.json",
     "kind": "videos",
     "description": "Bloomberg・Yahoo Finance・Schwab Network・CNBC-TV18 の24時間ライブと、日本語の決算解説"
+  },
+  {
+    "name": "環境音",
+    "file": "nature-sounds.json",
+    "kind": "videos",
+    "description": "雨・波・焚き火・川の24時間の環境音ライブ"
   }
 ]
