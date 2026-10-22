@@ -88,5 +88,11 @@
     "file": "politics.json",
     "kind": "channels",
     "description": "首相官邸の会見、英国議会、C-SPAN、国連の今日の中継（API キーが必要）"
+  },
+  {
+    "name": "水族館",
+    "file": "aquarium.json",
+    "kind": "videos",
+    "description": "鳥羽水族館・Monterey Bay・Vancouver Aquarium のラッコとサメのライブカメラ"
   }
 ]
