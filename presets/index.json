@@ -12,52 +12,22 @@
     "description": "Al Jazeera・DW News・FRANCE 24 の24時間ライブ"
   },
   {
+    "name": "政治・議会",
+    "file": "politics.json",
+    "kind": "channels",
+    "description": "首相官邸の会見、英国議会、C-SPAN、国連の今日の中継（API キーが必要）"
+  },
+  {
+    "name": "経済・マーケット",
+    "file": "markets.json",
+    "kind": "videos",
+    "description": "Bloomberg・Yahoo Finance・Schwab Network・CNBC-TV18 の24時間ライブと、日本語の決算解説"
+  },
+  {
     "name": "天気・防災",
     "file": "weather.json",
     "kind": "channels",
     "description": "ウェザーニュースの天気のライブと地震ライブ（API キーが必要）"
-  },
-  {
-    "name": "宇宙・自然",
-    "file": "space-nature.json",
-    "kind": "videos",
-    "description": "国際宇宙ステーションからの地球、野生動物や海のライブカメラ"
-  },
-  {
-    "name": "作業用 BGM",
-    "file": "bgm.json",
-    "kind": "videos",
-    "description": "lofi などの24時間音楽ライブ"
-  },
-  {
-    "name": "競輪",
-    "file": "keirin.json",
-    "kind": "channels",
-    "description": "全43場の今日の中継（API キーが必要）"
-  },
-  {
-    "name": "オートレース",
-    "file": "autorace.json",
-    "kind": "channels",
-    "description": "5場の今日の中継と、予想しながら見る裏配信（API キーが必要）"
-  },
-  {
-    "name": "地方競馬",
-    "file": "nar.json",
-    "kind": "channels",
-    "description": "15場の今日の中継と、予想・解説の番組（API キーが必要）"
-  },
-  {
-    "name": "ボートレース",
-    "file": "boatrace.json",
-    "kind": "channels",
-    "description": "24場の今日の中継と、女子戦の中継、演者つきの番組（API キーが必要）"
-  },
-  {
-    "name": "将棋・囲碁・麻雀",
-    "file": "shogi-igo-mahjong.json",
-    "kind": "channels",
-    "description": "将棋のタイトル戦、囲碁、プロ麻雀団体の対局と Mリーグの今日の中継（API キーが必要）"
   },
   {
     "name": "鉄道・ライブカメラ",
@@ -66,10 +36,28 @@
     "description": "日本の駅・新幹線・渋谷・空港などの定点ライブカメラと、海外の鉄道ライブ"
   },
   {
-    "name": "経済・マーケット",
-    "file": "markets.json",
+    "name": "空港・港",
+    "file": "airport-port.json",
     "kind": "videos",
-    "description": "Bloomberg・Yahoo Finance・Schwab Network・CNBC-TV18 の24時間ライブと、日本語の決算解説"
+    "description": "成田・伊丹・Heathrow の空港と、関門海峡・Port Miami の港のライブカメラ"
+  },
+  {
+    "name": "宇宙・自然",
+    "file": "space-nature.json",
+    "kind": "videos",
+    "description": "国際宇宙ステーションからの地球、野生動物や海のライブカメラ"
+  },
+  {
+    "name": "水族館",
+    "file": "aquarium.json",
+    "kind": "videos",
+    "description": "鳥羽水族館・Monterey Bay・Vancouver Aquarium のラッコとサメのライブカメラ"
+  },
+  {
+    "name": "作業用 BGM",
+    "file": "bgm.json",
+    "kind": "videos",
+    "description": "lofi などの24時間音楽ライブ"
   },
   {
     "name": "環境音",
@@ -84,28 +72,16 @@
     "description": "Manten・河野塾・オンライン作業部屋・Lofi Girl のポモドーロと自習室のライブ"
   },
   {
-    "name": "政治・議会",
-    "file": "politics.json",
-    "kind": "channels",
-    "description": "首相官邸の会見、英国議会、C-SPAN、国連の今日の中継（API キーが必要）"
-  },
-  {
-    "name": "水族館",
-    "file": "aquarium.json",
-    "kind": "videos",
-    "description": "鳥羽水族館・Monterey Bay・Vancouver Aquarium のラッコとサメのライブカメラ"
-  },
-  {
-    "name": "空港・港",
-    "file": "airport-port.json",
-    "kind": "videos",
-    "description": "成田・伊丹・Heathrow の空港と、関門海峡・Port Miami の港のライブカメラ"
-  },
-  {
     "name": "語学（英語）",
     "file": "english.json",
     "kind": "videos",
     "description": "NHK WORLD-JAPAN のニュースと、英語リスニングの24時間ライブ"
+  },
+  {
+    "name": "将棋・囲碁・麻雀",
+    "file": "shogi-igo-mahjong.json",
+    "kind": "channels",
+    "description": "将棋のタイトル戦、囲碁、プロ麻雀団体の対局と Mリーグの今日の中継（API キーが必要）"
   },
   {
     "name": "eスポーツ",
@@ -118,5 +94,29 @@
     "file": "vtuber.json",
     "kind": "channels",
     "description": "ホロライブとにじさんじの公式チャンネルの今日の配信（API キーが必要）"
+  },
+  {
+    "name": "地方競馬",
+    "file": "nar.json",
+    "kind": "channels",
+    "description": "15場の今日の中継と、予想・解説の番組（API キーが必要）"
+  },
+  {
+    "name": "ボートレース",
+    "file": "boatrace.json",
+    "kind": "channels",
+    "description": "24場の今日の中継と、女子戦の中継、演者つきの番組（API キーが必要）"
+  },
+  {
+    "name": "競輪",
+    "file": "keirin.json",
+    "kind": "channels",
+    "description": "全43場の今日の中継（API キーが必要）"
+  },
+  {
+    "name": "オートレース",
+    "file": "autorace.json",
+    "kind": "channels",
+    "description": "5場の今日の中継と、予想しながら見る裏配信（API キーが必要）"
   }
 ]
