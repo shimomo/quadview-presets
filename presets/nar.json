@@ -1,0 +1,47 @@
+{
+  "name": "地方競馬",
+  "timezone": "Asia/Tokyo",
+  "search": {
+    "channels": [
+      { "id": "UCyjlxPcoYAbpwlr5wjUA_5g", "default": "帯広" },
+      { "id": "UC6tQosgNJOmZUGmtkSvI6zA", "default": "門別" },
+      { "id": "UCVMhQ20_Y0vseUV7doOotwg", "default": "岩手" },
+      { "id": "UCdtB0m4BIjadiqV3C0Vi9SQ", "default": "浦和" },
+      { "id": "UCfnIcvhLkVVCTd86yemmGnQ", "default": "船橋" },
+      { "id": "UCPSZn8iMXln9o89SpmeJ6wg", "default": "大井" },
+      { "id": "UCF7v-dGy_jQ_7bOi7oab2PA", "default": "川崎" },
+      { "id": "UCMRX5ABMJWPR6aWlyZYeKog", "default": "金沢" },
+      { "id": "UCmPuLUWCwfAW99ezdCj6ayQ", "default": "笠松" },
+      { "id": "UCuAGB0_QDb68etl8v-JcSzA", "default": "名古屋", "pages": 4 },
+      { "id": "UCo3pBlg2U4Bu-n7UefYI45g", "default": "園田" },
+      { "id": "UCwGgMN7UlYobxOzIpknGo-A", "default": "高知" },
+      { "id": "UCzsYglP_Q86IKATJ0cU-XDw", "default": "佐賀" }
+    ],
+    "exclude": ["能力検査"]
+  },
+  "items": [
+    { "label": "帯広", "aliases": ["十勝"] },
+    { "label": "門別", "aliases": ["全レース"] },
+    { "label": "門別 予想", "aliases": ["なまちゃき"], "auto": false },
+    { "label": "岩手", "aliases": ["岩手競馬LIVE"] },
+    { "label": "岩手 番組", "aliases": ["チャグチャグ"], "auto": false },
+    { "label": "浦和", "aliases": ["全レース配信"] },
+    { "label": "浦和 予想", "aliases": ["予想LIVE", "トワイライトーク"], "auto": false },
+    { "label": "船橋", "aliases": ["ハートビート"] },
+    { "label": "大井", "aliases": ["パドックまるごと"] },
+    { "label": "大井 ウマきゅん", "aliases": ["ウマきゅん"], "auto": false },
+    { "label": "川崎", "aliases": ["パドック解説付き"] },
+    { "label": "川崎 トーク", "aliases": ["スパーキングトーク"], "auto": false },
+    { "label": "金沢", "aliases": ["LIVE中継"] },
+    { "label": "金沢 かなハピ", "aliases": ["かなハピ"], "auto": false },
+    { "label": "笠松", "aliases": ["ライブ配信"] },
+    { "label": "名古屋", "aliases": ["Live中継"] },
+    { "label": "園田", "aliases": ["園田競馬場ライブ"] },
+    { "label": "姫路", "aliases": ["姫路"] },
+    { "label": "園田 CAMPUS", "aliases": ["CAMPUS"], "auto": false },
+    { "label": "高知", "aliases": ["けいば中継"] },
+    { "label": "高知 ヨルノヲケイバ", "aliases": ["ヨルノヲケイバ"], "auto": false },
+    { "label": "佐賀", "aliases": ["さがけいば"] },
+    { "label": "佐賀 番組", "aliases": ["佐賀競馬"], "auto": false }
+  ]
+}

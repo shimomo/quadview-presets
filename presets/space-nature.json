@@ -1,0 +1,30 @@
+{
+  "name": "宇宙・自然",
+  "items": [
+    {
+      "label": "ISS（高画質）",
+      "video_id": "awQzjn72bI0",
+      "title": "NASA: Live High-Definition Views from the International Space Station"
+    },
+    {
+      "label": "ISS",
+      "video_id": "M3HKLzjvKPc",
+      "title": "NASA: Live Video from the International Space Station"
+    },
+    {
+      "label": "クマの滝",
+      "video_id": "J7ZrIDvqlic",
+      "title": "explore.org: Brooks Falls - Katmai National Park, Alaska"
+    },
+    {
+      "label": "熱帯の海",
+      "video_id": "DHUnz4dyb54",
+      "title": "explore.org: Tropical Reef Camera"
+    },
+    {
+      "label": "子ネコ",
+      "video_id": "-m_nQT62B4Y",
+      "title": "explore.org: Kitten Rescue Cat Cam"
+    }
+  ]
+}

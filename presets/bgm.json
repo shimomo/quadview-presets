@@ -1,0 +1,25 @@
+{
+  "name": "作業用 BGM",
+  "items": [
+    {
+      "label": "lofi hip hop",
+      "video_id": "rFZHOHl-L8A",
+      "title": "Lofi Girl: lofi hip hop radio - beats to relax/study to"
+    },
+    {
+      "label": "lofi house",
+      "video_id": "3PFJ9SETS4M",
+      "title": "Lofi Girl: lofi house radio"
+    },
+    {
+      "label": "ambient",
+      "video_id": "nI725iVsyoQ",
+      "title": "Lofi Girl: 24/7 deep sleep music"
+    },
+    {
+      "label": "summer lofi",
+      "video_id": "0muHFBSiybw",
+      "title": "Lofi Girl: summer lofi radio"
+    }
+  ]
+}

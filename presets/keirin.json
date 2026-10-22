@@ -1,0 +1,467 @@
+{
+  "name": "競輪",
+  "timezone": "Asia/Tokyo",
+  "search": {
+    "channels": [
+      {
+        "id": "UC7Ehq9agmTeznt6XjZ5faLw",
+        "default": "函館"
+      },
+      {
+        "id": "UCosOaqq60s3QAenTONNxUuQ",
+        "default": "青森"
+      },
+      {
+        "id": "UCTrT1fwMS9cOePzW_Z0TQfw",
+        "default": "いわき平"
+      },
+      {
+        "id": "UCT6ae6rMY1bP-A_6EKEOLtw",
+        "default": "弥彦"
+      },
+      {
+        "id": "UCtn0XkksabeXWF2Omyg6JEQ",
+        "default": "前橋"
+      },
+      {
+        "id": "UCDeV-cyqnTnoCCjz2Dm7VNA",
+        "default": "取手"
+      },
+      {
+        "id": "UCXKIA4ppNI_5lYFS3Eke39A",
+        "default": "宇都宮"
+      },
+      {
+        "id": "UCjdy4VH5HnofysPTcqiwTdg",
+        "default": "大宮"
+      },
+      {
+        "id": "UCPqtPpQwwWArIS_zTl7A9XQ",
+        "default": "西武園"
+      },
+      {
+        "id": "UCHdHXMKeFSZ3PxSUtpp90ng",
+        "default": "京王閣"
+      },
+      {
+        "id": "UCqm3b6_IkDSBezhVrJUmt1A",
+        "default": "立川"
+      },
+      {
+        "id": "UCvG1ViOoCDUqLrjbJsPhwzg",
+        "default": "立川"
+      },
+      {
+        "id": "UCEYoRewzhZWzP9OHaAFE8gA",
+        "default": "松戸"
+      },
+      {
+        "id": "UCxehdZntrAfpHnaNGlg_WJQ",
+        "default": "千葉"
+      },
+      {
+        "id": "UCtU7gR5VCpvQjtVPykL4EUA",
+        "default": "川崎"
+      },
+      {
+        "id": "UCvfTQBD1nQ8kAqwdrnTN-_g",
+        "default": "平塚"
+      },
+      {
+        "id": "UCNgccovrnvwUqSBaqoqrtfA",
+        "default": "小田原"
+      },
+      {
+        "id": "UC3CT-xL9H2UW4PMA2Hg1FjA",
+        "default": "伊東"
+      },
+      {
+        "id": "UCoPaxOy8ch2ydfgL1cpwhvQ",
+        "default": "静岡"
+      },
+      {
+        "id": "UCgf3cKAiLdTAset5YVGN4Rw",
+        "default": "名古屋"
+      },
+      {
+        "id": "UCs2ed7DZGQ-YKsCOX6NGyZQ",
+        "default": "岐阜"
+      },
+      {
+        "id": "UCcDTb_mchV4oxxQ2CfGSHFA",
+        "default": "大垣"
+      },
+      {
+        "id": "UC8mS4Ao44gjBbi8nFrP4fNg",
+        "default": "豊橋"
+      },
+      {
+        "id": "UCvVIZOHj843xo_QSnjY62Lg",
+        "default": "富山"
+      },
+      {
+        "id": "UCOZRGa_L_saD0ObvDtzG22Q",
+        "default": "松阪"
+      },
+      {
+        "id": "UCPibXjT_mINGifM1gi7ja0g",
+        "default": "四日市"
+      },
+      {
+        "id": "UCypKxtT2sGParvK54JMeWfw",
+        "default": "福井"
+      },
+      {
+        "id": "UCAHgvI8-zib9yOA2suyjGcg",
+        "default": "奈良"
+      },
+      {
+        "id": "UCdBuL72WRnKDIvAekxS2NxQ",
+        "default": "向日町"
+      },
+      {
+        "id": "UCu_WLHra6mfVBHj5qVz5Rbw",
+        "default": "和歌山"
+      },
+      {
+        "id": "UChHOZZ-KJgahUia5vxQnvNw",
+        "default": "岸和田"
+      },
+      {
+        "id": "UCng42-AiA4Km1N6fM-qq69A",
+        "default": "岸和田"
+      },
+      {
+        "id": "UCiKs6agRQVxz1RRPHSX-Oaw",
+        "default": "玉野"
+      },
+      {
+        "id": "UCC-MHu8wH3xWu8M93nzszBQ",
+        "default": "広島"
+      },
+      {
+        "id": "UCyi7rKGMOJSzCNT8Vt4-Cbg",
+        "default": "広島"
+      },
+      {
+        "id": "UC42l0MgmrF_tIfaMAPVvUKA",
+        "default": "防府"
+      },
+      {
+        "id": "UCWFvocB4sfX4wVXWaB4-SBg",
+        "default": "高松"
+      },
+      {
+        "id": "UCnfVl6Q_xov3Wf45NdWE1Eg",
+        "default": "小松島"
+      },
+      {
+        "id": "UCcnE1XfjoFEDL5GeWRk2DgQ",
+        "default": "高知"
+      },
+      {
+        "id": "UCX3xb9FwC7jL_ZnVmoyzgDg",
+        "default": "松山"
+      },
+      {
+        "id": "UCgOTgI9mi1XXYWs-J50FvHw",
+        "default": "小倉"
+      },
+      {
+        "id": "UCh7mcNayAkEXneLmnFZwzbQ",
+        "default": "久留米"
+      },
+      {
+        "id": "UClqmxHvzzOOWnpNdznfM28A",
+        "default": "武雄"
+      },
+      {
+        "id": "UCHsrH9sBqz9uDKggEKGsOFw",
+        "default": "佐世保"
+      },
+      {
+        "id": "UCxUAWJYLRXK2GFl9Nz7lJXA",
+        "default": "別府"
+      },
+      {
+        "id": "UCuhDz3wM73NDTg4IPMNlKhQ",
+        "default": "熊本"
+      }
+    ],
+    "exclude": [
+      "予想"
+    ],
+    "strip": [
+      "[^\\s【】\\[\\]]{1,6}?(?:市営|県営|町営)",
+      "高松宮"
+    ],
+    "after": "(?<![A-Za-z])in(?![A-Za-z])",
+    "duplicates": "first"
+  },
+  "items": [
+    {
+      "label": "函館",
+      "aliases": [
+        "函館"
+      ]
+    },
+    {
+      "label": "青森",
+      "aliases": [
+        "青森"
+      ]
+    },
+    {
+      "label": "いわき平",
+      "aliases": [
+        "いわき平"
+      ]
+    },
+    {
+      "label": "弥彦",
+      "aliases": [
+        "弥彦"
+      ]
+    },
+    {
+      "label": "前橋",
+      "aliases": [
+        "前橋"
+      ]
+    },
+    {
+      "label": "取手",
+      "aliases": [
+        "取手"
+      ]
+    },
+    {
+      "label": "宇都宮",
+      "aliases": [
+        "宇都宮"
+      ]
+    },
+    {
+      "label": "大宮",
+      "aliases": [
+        "大宮"
+      ]
+    },
+    {
+      "label": "西武園",
+      "aliases": [
+        "西武園"
+      ]
+    },
+    {
+      "label": "京王閣",
+      "aliases": [
+        "京王閣"
+      ]
+    },
+    {
+      "label": "立川",
+      "aliases": [
+        "立川"
+      ]
+    },
+    {
+      "label": "松戸",
+      "aliases": [
+        "松戸"
+      ]
+    },
+    {
+      "label": "千葉",
+      "aliases": [
+        "千葉",
+        "JPFドーム",
+        "JPF ドーム"
+      ]
+    },
+    {
+      "label": "川崎",
+      "aliases": [
+        "川崎"
+      ]
+    },
+    {
+      "label": "平塚",
+      "aliases": [
+        "平塚",
+        "湘南バンク"
+      ]
+    },
+    {
+      "label": "小田原",
+      "aliases": [
+        "小田原"
+      ]
+    },
+    {
+      "label": "伊東",
+      "aliases": [
+        "伊東温泉",
+        "伊東"
+      ]
+    },
+    {
+      "label": "静岡",
+      "aliases": [
+        "静岡"
+      ]
+    },
+    {
+      "label": "名古屋",
+      "aliases": [
+        "名古屋"
+      ]
+    },
+    {
+      "label": "岐阜",
+      "aliases": [
+        "岐阜"
+      ]
+    },
+    {
+      "label": "大垣",
+      "aliases": [
+        "大垣"
+      ]
+    },
+    {
+      "label": "豊橋",
+      "aliases": [
+        "豊橋"
+      ]
+    },
+    {
+      "label": "富山",
+      "aliases": [
+        "富山"
+      ]
+    },
+    {
+      "label": "松阪",
+      "aliases": [
+        "松阪"
+      ]
+    },
+    {
+      "label": "四日市",
+      "aliases": [
+        "四日市"
+      ]
+    },
+    {
+      "label": "福井",
+      "aliases": [
+        "福井"
+      ]
+    },
+    {
+      "label": "奈良",
+      "aliases": [
+        "奈良"
+      ]
+    },
+    {
+      "label": "向日町",
+      "aliases": [
+        "京都向日町",
+        "向日町"
+      ]
+    },
+    {
+      "label": "和歌山",
+      "aliases": [
+        "和歌山"
+      ]
+    },
+    {
+      "label": "岸和田",
+      "aliases": [
+        "ブッキースタジアム岸和田",
+        "岸和田"
+      ]
+    },
+    {
+      "label": "玉野",
+      "aliases": [
+        "玉野"
+      ]
+    },
+    {
+      "label": "広島",
+      "aliases": [
+        "広島"
+      ]
+    },
+    {
+      "label": "防府",
+      "aliases": [
+        "防府"
+      ]
+    },
+    {
+      "label": "高松",
+      "aliases": [
+        "高松"
+      ]
+    },
+    {
+      "label": "小松島",
+      "aliases": [
+        "小松島"
+      ]
+    },
+    {
+      "label": "高知",
+      "aliases": [
+        "高知"
+      ]
+    },
+    {
+      "label": "松山",
+      "aliases": [
+        "松山"
+      ]
+    },
+    {
+      "label": "小倉",
+      "aliases": [
+        "小倉"
+      ]
+    },
+    {
+      "label": "久留米",
+      "aliases": [
+        "久留米"
+      ]
+    },
+    {
+      "label": "武雄",
+      "aliases": [
+        "武雄"
+      ]
+    },
+    {
+      "label": "佐世保",
+      "aliases": [
+        "佐世保"
+      ]
+    },
+    {
+      "label": "別府",
+      "aliases": [
+        "別府"
+      ]
+    },
+    {
+      "label": "熊本",
+      "aliases": [
+        "熊本"
+      ]
+    }
+  ]
+}

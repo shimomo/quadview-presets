@@ -1,0 +1,27 @@
+{
+  "name": "天気・防災",
+  "timezone": "Asia/Tokyo",
+  "search": {
+    "channels": [
+      {
+        "id": "UCNsidkYpIAQ4QaufptQBPHQ"
+      }
+    ],
+    "duplicates": "all"
+  },
+  "items": [
+    {
+      "label": "天気",
+      "aliases": [
+        "天気"
+      ]
+    },
+    {
+      "label": "地震",
+      "aliases": [
+        "地震ライブ",
+        "地震速報"
+      ]
+    }
+  ]
+}

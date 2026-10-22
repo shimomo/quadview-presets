@@ -1,0 +1,69 @@
+{
+  "name": "オートレース",
+  "timezone": "Asia/Tokyo",
+  "search": {
+    "channels": [
+      {
+        "id": "UCJAPqcMNYk3HMknRuPMNvKA",
+        "priority": 1,
+        "pages": 10
+      },
+      {
+        "id": "UCM3t31-x3BYX9s2xGkIqk8w",
+        "default": "川口"
+      },
+      {
+        "id": "UCyz8qHMrHB0lSSwoF4S0jsQ",
+        "default": "浜松"
+      },
+      {
+        "id": "UCUwiFvrK2oCwwSA-1SVtOLA",
+        "default": "飯塚"
+      },
+      {
+        "id": "UCGercgXIY9l1H5r45XqQPEA",
+        "default": "山陽"
+      }
+    ],
+    "duplicates": "all"
+  },
+  "items": [
+    {
+      "label": "川口",
+      "aliases": [
+        "川口"
+      ]
+    },
+    {
+      "label": "伊勢崎",
+      "aliases": [
+        "伊勢崎"
+      ]
+    },
+    {
+      "label": "浜松",
+      "aliases": [
+        "浜松"
+      ]
+    },
+    {
+      "label": "飯塚",
+      "aliases": [
+        "飯塚"
+      ]
+    },
+    {
+      "label": "山陽",
+      "aliases": [
+        "山陽"
+      ]
+    },
+    {
+      "label": "予想LIVE",
+      "aliases": [
+        "ガチ予想"
+      ],
+      "auto": false
+    }
+  ]
+}

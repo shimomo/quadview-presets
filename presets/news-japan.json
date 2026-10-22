@@ -1,0 +1,41 @@
+{
+  "name": "ニュース（国内）",
+  "timezone": "Asia/Tokyo",
+  "search": {
+    "channels": [
+      {
+        "id": "UCGCZAYq5Xxojl_tSXcVJhiQ",
+        "default": "ANN"
+      },
+      {
+        "id": "UC6AG81pAkf6Lbi_1VC5NmPA",
+        "default": "TBS"
+      },
+      {
+        "id": "UCuTAXTexrhetbOe3zgskJBQ",
+        "default": "日テレ"
+      }
+    ],
+    "duplicates": "all"
+  },
+  "items": [
+    {
+      "label": "ANN",
+      "aliases": [
+        "ANN"
+      ]
+    },
+    {
+      "label": "TBS",
+      "aliases": [
+        "TBS"
+      ]
+    },
+    {
+      "label": "日テレ",
+      "aliases": [
+        "日テレ"
+      ]
+    }
+  ]
+}

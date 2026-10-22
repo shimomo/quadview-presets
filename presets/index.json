@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ニュース（国内）",
+    "file": "news-japan.json",
+    "kind": "channels",
+    "description": "ANN・TBS・日テレの今日のニュースライブ（API キーが必要）"
+  },
+  {
+    "name": "World news",
+    "file": "news-world.json",
+    "kind": "videos",
+    "description": "Al Jazeera・DW News・FRANCE 24 の24時間ライブ"
+  },
+  {
+    "name": "天気・防災",
+    "file": "weather.json",
+    "kind": "channels",
+    "description": "ウェザーニュースの天気のライブと地震ライブ（API キーが必要）"
+  },
+  {
+    "name": "宇宙・自然",
+    "file": "space-nature.json",
+    "kind": "videos",
+    "description": "国際宇宙ステーションからの地球、野生動物や海のライブカメラ"
+  },
+  {
+    "name": "作業用 BGM",
+    "file": "bgm.json",
+    "kind": "videos",
+    "description": "lofi などの24時間音楽ライブ"
+  },
+  {
+    "name": "競輪",
+    "file": "keirin.json",
+    "kind": "channels",
+    "description": "全43場の今日の中継（API キーが必要）"
+  },
+  {
+    "name": "オートレース",
+    "file": "autorace.json",
+    "kind": "channels",
+    "description": "5場の今日の中継と、予想しながら見る裏配信（API キーが必要）"
+  },
+  {
+    "name": "地方競馬",
+    "file": "nar.json",
+    "kind": "channels",
+    "description": "15場の今日の中継と、予想・解説の番組（API キーが必要）"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "World news",
+  "items": [
+    {
+      "label": "Al Jazeera",
+      "video_id": "gCNeDWCI0vo",
+      "title": "Al Jazeera English | Live"
+    },
+    {
+      "label": "DW News",
+      "video_id": "LuKwFajn37U",
+      "title": "DW News livestream"
+    },
+    {
+      "label": "FRANCE 24",
+      "video_id": "HvZt-nh9sGg",
+      "title": "FRANCE 24 English – LIVE"
+    }
+  ]
+}
