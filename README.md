@@ -25,6 +25,7 @@ QuadView の「設定」→「プリセット」に、下の URL を足してく
 | 環境音 | `https://shimomo.github.io/quadview-presets/nature-sounds.json` | 雨・波・焚き火・川の24時間の環境音ライブ |
 | ポモドーロ・作業部屋 | `https://shimomo.github.io/quadview-presets/study-rooms.json` | Manten・河野塾・オンライン作業部屋・Lofi Girl のポモドーロと自習室のライブ |
 | 政治・議会 | `https://shimomo.github.io/quadview-presets/politics.json` | 首相官邸の会見、英国議会、C-SPAN、国連の今日の中継（API キーが必要） |
+| 水族館 | `https://shimomo.github.io/quadview-presets/aquarium.json` | 鳥羽水族館・Monterey Bay・Vancouver Aquarium のラッコとサメのライブカメラ |
 
 一覧は [`presets/index.json`](presets/index.json) にもあります。
 

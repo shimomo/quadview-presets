@@ -1,0 +1,25 @@
+{
+  "name": "水族館",
+  "items": [
+    {
+      "label": "鳥羽水族館 ラッコ",
+      "video_id": "YonXVFE9C3g",
+      "title": "鳥羽水族館 TOBA AQUARIUM: 鳥羽水族館ラッコ水槽ライブカメラ"
+    },
+    {
+      "label": "Monterey ラッコ",
+      "video_id": "abbR-Ttd-cA",
+      "title": "Monterey Bay Aquarium: Live Sea Otter Cam"
+    },
+    {
+      "label": "Monterey サメ",
+      "video_id": "tEtg5Kg3voQ",
+      "title": "Monterey Bay Aquarium: Live Shark Cam"
+    },
+    {
+      "label": "Vancouver ラッコ",
+      "video_id": "9mg9PoFEX2U",
+      "title": "Vancouver Aquarium: Sea Otter Cam"
+    }
+  ]
+}
