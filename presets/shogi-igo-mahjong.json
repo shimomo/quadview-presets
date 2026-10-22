@@ -1,0 +1,72 @@
+{
+  "name": "将棋・囲碁・麻雀",
+  "timezone": "Asia/Tokyo",
+  "search": {
+    "channels": [
+      {
+        "id": "UCIItBLzuSNYnv-JRApCaDtg"
+      },
+      {
+        "id": "UCV7dpSujy4XWzaNHTVVtYOw"
+      },
+      {
+        "id": "UCYkOShGDIiVoPNA1ggkfl6A",
+        "default": "麻雀"
+      },
+      {
+        "id": "UCBHvzjvii3kp4gd_gw6UEIA",
+        "default": "Mリーグ"
+      }
+    ],
+    "exclude": [
+      "ドラフト会議",
+      "記者会見"
+    ],
+    "duplicates": "all"
+  },
+  "items": [
+    {
+      "label": "将棋 無料",
+      "aliases": [
+        "午前無料LIVE"
+      ]
+    },
+    {
+      "label": "将棋 毎日新聞",
+      "aliases": [
+        "AI評価値放送"
+      ]
+    },
+    {
+      "label": "将棋 メイン",
+      "aliases": [
+        "メインLIVE"
+      ],
+      "auto": false
+    },
+    {
+      "label": "将棋 AIプラス",
+      "aliases": [
+        "AIプラス"
+      ],
+      "auto": false
+    },
+    {
+      "label": "囲碁",
+      "aliases": [
+        "囲碁",
+        "竜星戦",
+        "本因坊"
+      ]
+    },
+    {
+      "label": "麻雀"
+    },
+    {
+      "label": "Mリーグ",
+      "aliases": [
+        "Mリーグ"
+      ]
+    }
+  ]
+}

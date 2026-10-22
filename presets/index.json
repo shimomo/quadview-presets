@@ -52,5 +52,11 @@
     "file": "boatrace.json",
     "kind": "channels",
     "description": "24場の今日の中継と、女子戦の中継、演者つきの番組（API キーが必要）"
+  },
+  {
+    "name": "将棋・囲碁・麻雀",
+    "file": "shogi-igo-mahjong.json",
+    "kind": "channels",
+    "description": "将棋のタイトル戦、囲碁、プロ麻雀団体の対局と Mリーグの今日の中継（API キーが必要）"
   }
 ]
