@@ -22,6 +22,7 @@ QuadView の「設定」→「プリセット」に、下の URL を足してく
 | 将棋・囲碁・麻雀 | `https://shimomo.github.io/quadview-presets/shogi-igo-mahjong.json` | 将棋のタイトル戦、囲碁、プロ麻雀団体の対局と Mリーグの今日の中継（API キーが必要） |
 | 鉄道・ライブカメラ | `https://shimomo.github.io/quadview-presets/live-cameras.json` | 日本の駅・新幹線・渋谷・空港などの定点ライブカメラと、海外の鉄道ライブ |
 | 経済・マーケット | `https://shimomo.github.io/quadview-presets/markets.json` | Bloomberg・Yahoo Finance・Schwab Network・CNBC-TV18 の24時間ライブと、日本語の決算解説 |
+| 環境音 | `https://shimomo.github.io/quadview-presets/nature-sounds.json` | 雨・波・焚き火・川の24時間の環境音ライブ |
 
 一覧は [`presets/index.json`](presets/index.json) にもあります。
 
