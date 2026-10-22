@@ -1,0 +1,51 @@
+{
+  "name": "政治・議会",
+  "timezone": "Asia/Tokyo",
+  "search": {
+    "channels": [
+      {
+        "id": "UCogK43-0HpBQXPahOswXJ0g",
+        "default": "首相官邸"
+      },
+      {
+        "id": "UCMasyWuE1P2AaEKw_FkGq9g",
+        "default": "英国議会"
+      },
+      {
+        "id": "UCb--64Gl51jIEVE-GLDAVTg",
+        "default": "C-SPAN"
+      },
+      {
+        "id": "UC5O114-PQNYkurlTg6hekZw",
+        "default": "国連"
+      }
+    ],
+    "duplicates": "all"
+  },
+  "items": [
+    {
+      "label": "首相官邸",
+      "aliases": [
+        "首相官邸"
+      ]
+    },
+    {
+      "label": "英国議会",
+      "aliases": [
+        "英国議会"
+      ]
+    },
+    {
+      "label": "C-SPAN",
+      "aliases": [
+        "C-SPAN"
+      ]
+    },
+    {
+      "label": "国連",
+      "aliases": [
+        "国連"
+      ]
+    }
+  ]
+}

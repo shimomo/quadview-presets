@@ -82,5 +82,11 @@
     "file": "study-rooms.json",
     "kind": "videos",
     "description": "Manten・河野塾・オンライン作業部屋・Lofi Girl のポモドーロと自習室のライブ"
+  },
+  {
+    "name": "政治・議会",
+    "file": "politics.json",
+    "kind": "channels",
+    "description": "首相官邸の会見、英国議会、C-SPAN、国連の今日の中継（API キーが必要）"
   }
 ]
