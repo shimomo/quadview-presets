@@ -76,5 +76,11 @@
     "file": "nature-sounds.json",
     "kind": "videos",
     "description": "雨・波・焚き火・川の24時間の環境音ライブ"
+  },
+  {
+    "name": "ポモドーロ・作業部屋",
+    "file": "study-rooms.json",
+    "kind": "videos",
+    "description": "Manten・河野塾・オンライン作業部屋・Lofi Girl のポモドーロと自習室のライブ"
   }
 ]
