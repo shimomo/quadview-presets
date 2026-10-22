@@ -29,6 +29,7 @@ QuadView の「設定」→「プリセット」に、下の URL を足してく
 | 空港・港 | `https://shimomo.github.io/quadview-presets/airport-port.json` | 成田・伊丹・Heathrow の空港と、関門海峡・Port Miami の港のライブカメラ |
 | 語学（英語） | `https://shimomo.github.io/quadview-presets/english.json` | NHK WORLD-JAPAN のニュースと、英語リスニングの24時間ライブ |
 | eスポーツ | `https://shimomo.github.io/quadview-presets/esports.json` | LoL・VALORANT・CS2 の公式大会の今日の中継（API キーが必要） |
+| VTuber | `https://shimomo.github.io/quadview-presets/vtuber.json` | ホロライブとにじさんじの公式チャンネルの今日の配信（API キーが必要） |
 
 一覧は [`presets/index.json`](presets/index.json) にもあります。
 
