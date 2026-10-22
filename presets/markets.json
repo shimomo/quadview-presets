@@ -1,0 +1,30 @@
+{
+  "name": "経済・マーケット",
+  "items": [
+    {
+      "label": "Bloomberg",
+      "video_id": "QB5BNdBFujE",
+      "title": "Bloomberg Television: Bloomberg Business News Live"
+    },
+    {
+      "label": "Yahoo Finance",
+      "video_id": "KQp-e_XQnDE",
+      "title": "Yahoo Finance: Yahoo Finance 24/7 Stream: Daily Market Coverage"
+    },
+    {
+      "label": "Schwab Network",
+      "video_id": "YWJeRcv_XK8",
+      "title": "Schwab Network: Watch Schwab Network LIVE"
+    },
+    {
+      "label": "CNBC-TV18",
+      "video_id": "1_Ih0JYmkjI",
+      "title": "CNBC-TV18: CNBC TV18 24x7 LIVE: Stock Market LIVE Updates"
+    },
+    {
+      "label": "IRTV",
+      "video_id": "HrmQ7cbWSJM",
+      "title": "IRTV Channel: 決算解説（メタ・テスラ・ディスコ・日経平均）"
+    }
+  ]
+}
