@@ -20,6 +20,7 @@ QuadView の「設定」→「プリセット」に、下の URL を足してく
 | 地方競馬 | `https://shimomo.github.io/quadview-presets/nar.json` | 15場の今日の中継と、予想・解説の番組（API キーが必要） |
 | ボートレース | `https://shimomo.github.io/quadview-presets/boatrace.json` | 24場の今日の中継と、女子戦の中継、演者つきの番組（API キーが必要） |
 | 将棋・囲碁・麻雀 | `https://shimomo.github.io/quadview-presets/shogi-igo-mahjong.json` | 将棋のタイトル戦、囲碁、プロ麻雀団体の対局と Mリーグの今日の中継（API キーが必要） |
+| 鉄道・ライブカメラ | `https://shimomo.github.io/quadview-presets/live-cameras.json` | 日本の駅・新幹線・渋谷・空港などの定点ライブカメラと、海外の鉄道ライブ |
 
 一覧は [`presets/index.json`](presets/index.json) にもあります。
 

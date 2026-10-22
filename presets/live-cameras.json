@@ -1,0 +1,75 @@
+{
+  "name": "鉄道・ライブカメラ",
+  "items": [
+    {
+      "label": "浜松町駅",
+      "video_id": "W0V8-6WrgBY",
+      "title": "共同通信LiveCamera: 東京・浜松町駅 ライブカメラ"
+    },
+    {
+      "label": "新宿 鉄道",
+      "video_id": "GLQhbRGv5qU",
+      "title": "東京 新宿 鉄道 ライブ: Tokyo Shinjuku JR Live Cam"
+    },
+    {
+      "label": "東北新幹線 郡山",
+      "video_id": "yLHx5DV9rB8",
+      "title": "東北新幹線 アルファライブ: 郡山 ノンストップカメラ"
+    },
+    {
+      "label": "名古屋駅",
+      "video_id": "3EqvCFB4teE",
+      "title": "鉄道沿線の生活: 名古屋駅 ライブカメラ"
+    },
+    {
+      "label": "中央本線",
+      "video_id": "RlU6BRXBP9c",
+      "title": "The Dramatic 中央本線。: 春日居町〜石和温泉 ライブカメラ①"
+    },
+    {
+      "label": "渋谷",
+      "video_id": "dfVK7ld38Ys",
+      "title": "FNNプライムオンライン: 渋谷・スクランブル交差点 ライブカメラ"
+    },
+    {
+      "label": "歌舞伎町",
+      "video_id": "DjdUEyjx8GM",
+      "title": "歌舞伎町 ライブ ちゃんねる: 新宿 歌舞伎町 24時間 ライブ"
+    },
+    {
+      "label": "東京湾",
+      "video_id": "_k-5U7IeK8g",
+      "title": "Tokyo Views LIVE: Tokyo Live Camera Tokyo Bay"
+    },
+    {
+      "label": "羽田空港",
+      "video_id": "2PIdi3Xa7TY",
+      "title": "日テレNEWS: 羽田空港 第2ターミナル ライブカメラ"
+    },
+    {
+      "label": "福岡空港",
+      "video_id": "CzgSFUAbE9s",
+      "title": "福岡TNC ニュース: 福岡空港ライブカメラ"
+    },
+    {
+      "label": "上高地",
+      "video_id": "Iv2VUE_UhRQ",
+      "title": "五千尺ホテル上高地: 上高地河童橋ライブカメラ"
+    },
+    {
+      "label": "米国の鉄道",
+      "video_id": "X-ir2KfXMX0",
+      "title": "Virtual Railfan: La Plata, Missouri, USA LIVE Train Camera"
+    },
+    {
+      "label": "オランダの鉄道",
+      "video_id": "wxPi28clpk8",
+      "title": "RailCam Netherlands: Livestream RailCam Netherlands"
+    },
+    {
+      "label": "プラハ中央駅",
+      "video_id": "tmlE1ct0cYk",
+      "title": "SlowTV: Trainspotting on Prague Main Station"
+    }
+  ]
+}
