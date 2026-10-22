@@ -112,5 +112,11 @@
     "file": "esports.json",
     "kind": "channels",
     "description": "LoL・VALORANT・CS2 の公式大会の今日の中継（API キーが必要）"
+  },
+  {
+    "name": "VTuber",
+    "file": "vtuber.json",
+    "kind": "channels",
+    "description": "ホロライブとにじさんじの公式チャンネルの今日の配信（API キーが必要）"
   }
 ]
