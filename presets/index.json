@@ -58,5 +58,11 @@
     "file": "shogi-igo-mahjong.json",
     "kind": "channels",
     "description": "将棋のタイトル戦、囲碁、プロ麻雀団体の対局と Mリーグの今日の中継（API キーが必要）"
+  },
+  {
+    "name": "鉄道・ライブカメラ",
+    "file": "live-cameras.json",
+    "kind": "videos",
+    "description": "日本の駅・新幹線・渋谷・空港などの定点ライブカメラと、海外の鉄道ライブ"
   }
 ]
