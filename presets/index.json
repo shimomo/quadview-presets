@@ -106,5 +106,11 @@
     "file": "english.json",
     "kind": "videos",
     "description": "NHK WORLD-JAPAN のニュースと、英語リスニングの24時間ライブ"
+  },
+  {
+    "name": "eスポーツ",
+    "file": "esports.json",
+    "kind": "channels",
+    "description": "LoL・VALORANT・CS2 の公式大会の今日の中継（API キーが必要）"
   }
 ]

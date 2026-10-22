@@ -1,0 +1,44 @@
+{
+  "name": "eスポーツ",
+  "timezone": "Asia/Tokyo",
+  "search": {
+    "channels": [
+      {
+        "id": "UCvqRdlKsE5Q8mf8YXbdIJLw",
+        "default": "LoL"
+      },
+      {
+        "id": "UCA1d3HFGFUmkKr2JIUA5Vlw",
+        "default": "VALORANT"
+      },
+      {
+        "id": "UCPq2ETz4aAGo2Z-8JisDPIA",
+        "default": "CS2"
+      }
+    ],
+    "exclude": [
+      "VERTICAL"
+    ],
+    "duplicates": "all"
+  },
+  "items": [
+    {
+      "label": "LoL",
+      "aliases": [
+        "LoL"
+      ]
+    },
+    {
+      "label": "VALORANT",
+      "aliases": [
+        "VALORANT"
+      ]
+    },
+    {
+      "label": "CS2",
+      "aliases": [
+        "CS2"
+      ]
+    }
+  ]
+}
