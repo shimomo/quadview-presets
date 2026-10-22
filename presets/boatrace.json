@@ -1,0 +1,300 @@
+{
+  "name": "ボートレース",
+  "timezone": "Asia/Tokyo",
+  "search": {
+    "channels": [
+      {
+        "id": "UCT2pRt_me0tOA8B2sakEv7Q",
+        "default": "桐生"
+      },
+      {
+        "id": "UCoLCf3aVRMSukwetHfn1p1A",
+        "default": "戸田"
+      },
+      {
+        "id": "UCpNAwETM_vPV2Skumzc_KMA",
+        "default": "江戸川"
+      },
+      {
+        "id": "UCjwK26-PM7YXeDvgcu257zQ",
+        "default": "平和島",
+        "priority": 1
+      },
+      {
+        "id": "UCGExstl4XKMun5eY9V0zlSg",
+        "default": "平和島 番組"
+      },
+      {
+        "id": "UC4lvZQUptR8m5VDSu49xCGQ",
+        "default": "多摩川"
+      },
+      {
+        "id": "UC216-Ja4Zf0bZliGZKlK1EA",
+        "default": "浜名湖"
+      },
+      {
+        "id": "UCZhuyNQgLORLjgl8hlA7uHw",
+        "default": "蒲郡"
+      },
+      {
+        "id": "UCu9lPbAk1MosTGm2yQ4BapQ",
+        "default": "常滑"
+      },
+      {
+        "id": "UCEUXzh5FRxDneaLvv0YdEfQ",
+        "default": "津"
+      },
+      {
+        "id": "UCu-yP6WJQ0zcx5nmWhxvJEg",
+        "default": "三国"
+      },
+      {
+        "id": "UC30RhFtmxLH1Hivcwr0qQoA",
+        "default": "びわこ",
+        "priority": 1
+      },
+      {
+        "id": "UCLbcsJqsT5Qa1axpYcOBpmg",
+        "default": "びわこ 番組"
+      },
+      {
+        "id": "UCW3AReETO-oDmEoE-m3i7dQ",
+        "default": "住之江"
+      },
+      {
+        "id": "UC-vpH4QQKPwsqsbESOfNgZQ",
+        "default": "尼崎"
+      },
+      {
+        "id": "UCd8rJfg7p8qsASOEIIwAinQ",
+        "default": "鳴門"
+      },
+      {
+        "id": "UC2CWDMG18mpBGXkI9KHdACQ",
+        "default": "丸亀"
+      },
+      {
+        "id": "UCyvjgN0bUFa8wqG6CjLNtIw",
+        "default": "児島"
+      },
+      {
+        "id": "UCxvYC6PPCsy2_p0tGuvIv5w",
+        "default": "宮島"
+      },
+      {
+        "id": "UCqyq1Dav7D5ztEl_ierxsjw",
+        "default": "徳山"
+      },
+      {
+        "id": "UCl-7IwVjJHzWUhqxz7hwY1w",
+        "default": "下関"
+      },
+      {
+        "id": "UCll--OtE3eJpzb4uwX8MX9A",
+        "default": "若松"
+      },
+      {
+        "id": "UC5BunThJ_eBJq5gz-DOaRLw",
+        "default": "芦屋"
+      },
+      {
+        "id": "UCgyb8el3rLkg8i0bEMboQhA",
+        "default": "福岡"
+      },
+      {
+        "id": "UCO6ycDxAk-5OHAiKc71gNSQ",
+        "default": "唐津"
+      },
+      {
+        "id": "UCPLb9R1EIqxNBy8Qzcrz8Wg",
+        "default": "大村"
+      },
+      {
+        "id": "UC8yUNWzXzJvOC_XqWmDlHeg",
+        "priority": -1
+      }
+    ],
+    "exclude": [
+      "気象LIVE"
+    ],
+    "duplicates": "all"
+  },
+  "items": [
+    {
+      "label": "桐生",
+      "aliases": [
+        "桐生",
+        "ドラキリュウ"
+      ]
+    },
+    {
+      "label": "戸田",
+      "aliases": [
+        "戸田",
+        "WINWIN"
+      ]
+    },
+    {
+      "label": "江戸川",
+      "aliases": [
+        "江戸川"
+      ]
+    },
+    {
+      "label": "平和島",
+      "aliases": [
+        "平和島"
+      ]
+    },
+    {
+      "label": "平和島 番組",
+      "aliases": [
+        "それあると思います",
+        "LIVE REPORT"
+      ],
+      "auto": false
+    },
+    {
+      "label": "多摩川",
+      "aliases": [
+        "多摩川",
+        "どちゃんこ"
+      ]
+    },
+    {
+      "label": "浜名湖",
+      "aliases": [
+        "浜名湖"
+      ]
+    },
+    {
+      "label": "蒲郡",
+      "aliases": [
+        "蒲郡"
+      ]
+    },
+    {
+      "label": "常滑",
+      "aliases": [
+        "常滑",
+        "とこなめ",
+        "トコタン"
+      ]
+    },
+    {
+      "label": "津",
+      "aliases": [
+        "ボートレース津",
+        "津ファン",
+        "津ぅ"
+      ]
+    },
+    {
+      "label": "三国",
+      "aliases": [
+        "三国"
+      ]
+    },
+    {
+      "label": "びわこ",
+      "aliases": [
+        "びわこ",
+        "Biwako"
+      ]
+    },
+    {
+      "label": "びわこ 番組",
+      "aliases": [
+        "極限予想",
+        "コロシアムDATA"
+      ],
+      "auto": false
+    },
+    {
+      "label": "住之江",
+      "aliases": [
+        "住之江"
+      ]
+    },
+    {
+      "label": "尼崎",
+      "aliases": [
+        "尼崎"
+      ]
+    },
+    {
+      "label": "鳴門",
+      "aliases": [
+        "鳴門"
+      ]
+    },
+    {
+      "label": "丸亀",
+      "aliases": [
+        "丸亀",
+        "まるがめ"
+      ]
+    },
+    {
+      "label": "児島",
+      "aliases": [
+        "児島"
+      ]
+    },
+    {
+      "label": "宮島",
+      "aliases": [
+        "宮島"
+      ]
+    },
+    {
+      "label": "徳山",
+      "aliases": [
+        "徳山",
+        "すなっち"
+      ]
+    },
+    {
+      "label": "下関",
+      "aliases": [
+        "下関"
+      ]
+    },
+    {
+      "label": "若松",
+      "aliases": [
+        "若松",
+        "わかまちゅーぶ"
+      ]
+    },
+    {
+      "label": "芦屋",
+      "aliases": [
+        "芦屋",
+        "あしやん"
+      ]
+    },
+    {
+      "label": "福岡",
+      "aliases": [
+        "福岡",
+        "ペラ坊"
+      ]
+    },
+    {
+      "label": "唐津",
+      "aliases": [
+        "唐津",
+        "からつ"
+      ]
+    },
+    {
+      "label": "大村",
+      "aliases": [
+        "大村",
+        "オムスタ",
+        "オームラサン"
+      ]
+    }
+  ]
+}

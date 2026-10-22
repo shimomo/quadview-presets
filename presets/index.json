@@ -46,5 +46,11 @@
     "file": "nar.json",
     "kind": "channels",
     "description": "15場の今日の中継と、予想・解説の番組（API キーが必要）"
+  },
+  {
+    "name": "ボートレース",
+    "file": "boatrace.json",
+    "kind": "channels",
+    "description": "24場の今日の中継と、女子戦の中継、演者つきの番組（API キーが必要）"
   }
 ]
