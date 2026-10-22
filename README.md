@@ -18,6 +18,7 @@ QuadView の「設定」→「プリセット」に、下の URL を足してく
 | 競輪 | `https://shimomo.github.io/quadview-presets/keirin.json` | 全43場の今日の中継（API キーが必要） |
 | オートレース | `https://shimomo.github.io/quadview-presets/autorace.json` | 5場の今日の中継と、予想しながら見る裏配信（API キーが必要） |
 | 地方競馬 | `https://shimomo.github.io/quadview-presets/nar.json` | 15場の今日の中継と、予想・解説の番組（API キーが必要） |
+| ボートレース | `https://shimomo.github.io/quadview-presets/boatrace.json` | 24場の今日の中継と、女子戦の中継、演者つきの番組（API キーが必要） |
 
 一覧は [`presets/index.json`](presets/index.json) にもあります。
 
