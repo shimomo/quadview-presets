@@ -100,5 +100,11 @@
     "file": "airport-port.json",
     "kind": "videos",
     "description": "成田・伊丹・Heathrow の空港と、関門海峡・Port Miami の港のライブカメラ"
+  },
+  {
+    "name": "語学（英語）",
+    "file": "english.json",
+    "kind": "videos",
+    "description": "NHK WORLD-JAPAN のニュースと、英語リスニングの24時間ライブ"
   }
 ]
