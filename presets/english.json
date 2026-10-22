@@ -1,0 +1,25 @@
+{
+  "name": "語学（英語）",
+  "items": [
+    {
+      "label": "NHK WORLD",
+      "video_id": "IimtbuqYIE8",
+      "title": "NHK WORLD-JAPAN: LIVE: NHK WORLD-JAPAN News"
+    },
+    {
+      "label": "英語聞き流し",
+      "video_id": "UO9KIznfFYI",
+      "title": "英語聞き流し | Sakura English: 【24Hライブ】英語リスニング24時間 聞き流し"
+    },
+    {
+      "label": "ABC Learning English",
+      "video_id": "l7anxON4kEc",
+      "title": "ABC Learning English: 24/7 Slow English Listening & Speaking Stream"
+    },
+    {
+      "label": "Mr English",
+      "video_id": "l7RDSmeyqSw",
+      "title": "Mr English Everyday: LIVE 24/7: Learn English Through Stories"
+    }
+  ]
+}

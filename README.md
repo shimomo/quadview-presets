@@ -27,6 +27,7 @@ QuadView の「設定」→「プリセット」に、下の URL を足してく
 | 政治・議会 | `https://shimomo.github.io/quadview-presets/politics.json` | 首相官邸の会見、英国議会、C-SPAN、国連の今日の中継（API キーが必要） |
 | 水族館 | `https://shimomo.github.io/quadview-presets/aquarium.json` | 鳥羽水族館・Monterey Bay・Vancouver Aquarium のラッコとサメのライブカメラ |
 | 空港・港 | `https://shimomo.github.io/quadview-presets/airport-port.json` | 成田・伊丹・Heathrow の空港と、関門海峡・Port Miami の港のライブカメラ |
+| 語学（英語） | `https://shimomo.github.io/quadview-presets/english.json` | NHK WORLD-JAPAN のニュースと、英語リスニングの24時間ライブ |
 
 一覧は [`presets/index.json`](presets/index.json) にもあります。
 
