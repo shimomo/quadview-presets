@@ -94,5 +94,11 @@
     "file": "aquarium.json",
     "kind": "videos",
     "description": "鳥羽水族館・Monterey Bay・Vancouver Aquarium のラッコとサメのライブカメラ"
+  },
+  {
+    "name": "空港・港",
+    "file": "airport-port.json",
+    "kind": "videos",
+    "description": "成田・伊丹・Heathrow の空港と、関門海峡・Port Miami の港のライブカメラ"
   }
 ]
