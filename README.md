@@ -12,24 +12,24 @@ QuadView の「設定」→「プリセット」に、下の URL を足してく
 |---|---|---|
 | ニュース（国内） | `https://shimomo.github.io/quadview-presets/news-japan.json` | ANN・TBS・日テレの今日のニュースライブ（API キーが必要） |
 | World news | `https://shimomo.github.io/quadview-presets/news-world.json` | Al Jazeera・DW News・FRANCE 24 の24時間ライブ |
-| 天気・防災 | `https://shimomo.github.io/quadview-presets/weather.json` | ウェザーニュースの天気のライブと地震ライブ（API キーが必要） |
-| 宇宙・自然 | `https://shimomo.github.io/quadview-presets/space-nature.json` | 国際宇宙ステーションからの地球、野生動物や海のライブカメラ |
-| 作業用 BGM | `https://shimomo.github.io/quadview-presets/bgm.json` | lofi などの24時間音楽ライブ |
-| 競輪 | `https://shimomo.github.io/quadview-presets/keirin.json` | 全43場の今日の中継（API キーが必要） |
-| オートレース | `https://shimomo.github.io/quadview-presets/autorace.json` | 5場の今日の中継と、予想しながら見る裏配信（API キーが必要） |
-| 地方競馬 | `https://shimomo.github.io/quadview-presets/nar.json` | 15場の今日の中継と、予想・解説の番組（API キーが必要） |
-| ボートレース | `https://shimomo.github.io/quadview-presets/boatrace.json` | 24場の今日の中継と、女子戦の中継、演者つきの番組（API キーが必要） |
-| 将棋・囲碁・麻雀 | `https://shimomo.github.io/quadview-presets/shogi-igo-mahjong.json` | 将棋のタイトル戦、囲碁、プロ麻雀団体の対局と Mリーグの今日の中継（API キーが必要） |
-| 鉄道・ライブカメラ | `https://shimomo.github.io/quadview-presets/live-cameras.json` | 日本の駅・新幹線・渋谷・空港などの定点ライブカメラと、海外の鉄道ライブ |
+| 政治・議会 | `https://shimomo.github.io/quadview-presets/politics.json` | 首相官邸の会見、英国議会、C-SPAN、国連の今日の中継（API キーが必要） |
 | 経済・マーケット | `https://shimomo.github.io/quadview-presets/markets.json` | Bloomberg・Yahoo Finance・Schwab Network・CNBC-TV18 の24時間ライブと、日本語の決算解説 |
+| 天気・防災 | `https://shimomo.github.io/quadview-presets/weather.json` | ウェザーニュースの天気のライブと地震ライブ（API キーが必要） |
+| 鉄道・ライブカメラ | `https://shimomo.github.io/quadview-presets/live-cameras.json` | 日本の駅・新幹線・渋谷・空港などの定点ライブカメラと、海外の鉄道ライブ |
+| 空港・港 | `https://shimomo.github.io/quadview-presets/airport-port.json` | 成田・伊丹・Heathrow の空港と、関門海峡・Port Miami の港のライブカメラ |
+| 宇宙・自然 | `https://shimomo.github.io/quadview-presets/space-nature.json` | 国際宇宙ステーションからの地球、野生動物や海のライブカメラ |
+| 水族館 | `https://shimomo.github.io/quadview-presets/aquarium.json` | 鳥羽水族館・Monterey Bay・Vancouver Aquarium のラッコとサメのライブカメラ |
+| 作業用 BGM | `https://shimomo.github.io/quadview-presets/bgm.json` | lofi などの24時間音楽ライブ |
 | 環境音 | `https://shimomo.github.io/quadview-presets/nature-sounds.json` | 雨・波・焚き火・川の24時間の環境音ライブ |
 | ポモドーロ・作業部屋 | `https://shimomo.github.io/quadview-presets/study-rooms.json` | Manten・河野塾・オンライン作業部屋・Lofi Girl のポモドーロと自習室のライブ |
-| 政治・議会 | `https://shimomo.github.io/quadview-presets/politics.json` | 首相官邸の会見、英国議会、C-SPAN、国連の今日の中継（API キーが必要） |
-| 水族館 | `https://shimomo.github.io/quadview-presets/aquarium.json` | 鳥羽水族館・Monterey Bay・Vancouver Aquarium のラッコとサメのライブカメラ |
-| 空港・港 | `https://shimomo.github.io/quadview-presets/airport-port.json` | 成田・伊丹・Heathrow の空港と、関門海峡・Port Miami の港のライブカメラ |
 | 語学（英語） | `https://shimomo.github.io/quadview-presets/english.json` | NHK WORLD-JAPAN のニュースと、英語リスニングの24時間ライブ |
+| 将棋・囲碁・麻雀 | `https://shimomo.github.io/quadview-presets/shogi-igo-mahjong.json` | 将棋のタイトル戦、囲碁、プロ麻雀団体の対局と Mリーグの今日の中継（API キーが必要） |
 | eスポーツ | `https://shimomo.github.io/quadview-presets/esports.json` | LoL・VALORANT・CS2 の公式大会の今日の中継（API キーが必要） |
 | VTuber | `https://shimomo.github.io/quadview-presets/vtuber.json` | ホロライブとにじさんじの公式チャンネルの今日の配信（API キーが必要） |
+| 地方競馬 | `https://shimomo.github.io/quadview-presets/nar.json` | 15場の今日の中継と、予想・解説の番組（API キーが必要） |
+| ボートレース | `https://shimomo.github.io/quadview-presets/boatrace.json` | 24場の今日の中継と、女子戦の中継、演者つきの番組（API キーが必要） |
+| 競輪 | `https://shimomo.github.io/quadview-presets/keirin.json` | 全43場の今日の中継（API キーが必要） |
+| オートレース | `https://shimomo.github.io/quadview-presets/autorace.json` | 5場の今日の中継と、予想しながら見る裏配信（API キーが必要） |
 
 一覧は [`presets/index.json`](presets/index.json) にもあります。
 
